@@ -1,5 +1,5 @@
 # JAVA-Lacos-Condicionais
-Atividade prática em JAVA da Generation Brasil usando Laços Condicionais
+Atividade prática em JAVA da Generation Brasil usando Laços Condicionais (if e Switch)
 
 
 Exercício 01 - Laço Condicional If
